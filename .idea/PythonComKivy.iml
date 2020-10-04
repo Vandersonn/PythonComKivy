@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
-    <orderEntry type="jdk" jdkName="Python 3.9 (kivy_venv)" jdkType="Python SDK" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Apps-Comerciais-kivy/kivy/aulas/Módulo 6 - Ferramentas/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/Apps-Comerciais-kivy/kivy/aulas/Módulo 6 - Ferramentas/0009 - Desenvolvimento Interativo com Jupyter e Kivy/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/Apps-Comerciais-kivy/kivy/aulas/Módulo 8 - Widget I/0003 - Ambiente para Estudo dos Widgets/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/Apps-Comerciais-kivy/kivy/aulas/Módulo 8 - Widget I/0004 - FloatLayout/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/Apps-Comerciais-kivy/kivy/aulas/Módulo 8 - Widget I/0005 - BoxLayout/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/Apps-Comerciais-kivy/kivy/aulas/Módulo 8 - Widget I/0006 - StackLayout/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/Apps-Comerciais-kivy/kivy/aulas/Módulo 8 - Widget I/0007 - GridLayout/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/Apps-Comerciais-kivy/kivy/aulas/Módulo 8 - Widget I/0008 - Sistema de Cores/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/Apps-Comerciais-kivy/kivy/aulas/Módulo 8 - Widget I/0009 - Cor de Background/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/Apps-Comerciais-kivy/kivy/aulas/Módulo 9 - Widgets II/0001 - Label/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/Apps-Comerciais-kivy/kivy/aulas/Módulo 9 - Widgets II/0002 - Label II/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/Apps-Comerciais-kivy/kivy/aulas/Módulo 9 - Widgets II/0003 - Button/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/Apps-Comerciais-kivy/kivy/aulas/Módulo 9 - Widgets II/0004 - TextInput/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/Apps-Comerciais-kivy/kivy/kivy-master/kivy/garden" />
+      <excludeFolder url="file://$MODULE_DIR$/Apps-Comerciais-kivy/kivy/kivy-master/kivy/lib" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.8 (Python Kivy)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
